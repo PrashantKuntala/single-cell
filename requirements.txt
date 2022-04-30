@@ -1,0 +1,4 @@
+scanpy
+python-igraph
+leidenalg
+fa2
